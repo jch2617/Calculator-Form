@@ -99,7 +99,7 @@ circle.addEventListener("click", areaofCircle);
 
 
 /* The function belows takes all numbers entered in input fields and 
-calculates them all at once, rather calculating each number at once */
+calculates them all at once, rather than calculating each number at once */
 function calculateAll() {
   squareNumber();
   halfNumber();
